@@ -63,13 +63,6 @@ The HR role focuses on managing human resources within an organization, includin
    * How do you approach the recruitment and selection process, and what strategies do you use to attract and retain top talent?
    * Can you describe a time when you successfully identified and hired a strong candidate for a difficult-to-fill position?
    * How do you ensure that your recruitment and selection process is fair, unbiased, and compliant with employment laws and regulations?
-
-(Continued in the next response due to character limit)
-(Continuation from previous response)
-
-### Interview Questions (Continued)
-
-### Personal Skills
 3. **Decision-making**:
    * How do you approach decision-making, and what factors do you consider when making important decisions?
    * Can you describe a time when you had to make a difficult decision, and what factors did you consider before making the final call?
