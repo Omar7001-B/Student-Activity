@@ -10,9 +10,9 @@ The primary responsibility of a PR professional is to build and manage relations
 
 ## Responsibilities
 
-- Building and managing relationships for the team members.
-- Handling deals with other Student Activities
-- Handling deals with sponsors
+- Building and managing relationships.
+- Handling deals with other Student Activities.
+- Handling deals with sponsors.
 - Handling permits related to locations or universities.
 
 ## Skills
