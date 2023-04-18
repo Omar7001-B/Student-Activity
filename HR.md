@@ -53,6 +53,23 @@ The HR role focuses on managing human resources within an organization, includin
    * How do you ensure that you are actively listening to others and understanding their needs before responding?
    * Can you give an example of a time when active listening helped you to better understand a colleague or team member's perspective?
    * How do you use listening skills to build stronger relationships and trust with stakeholders?
+3. Decision-making:
+	-  How do you approach decision-making, and what factors do you consider when making important decisions?
+	-  Can you describe a time when you had to make a difficult decision, and what factors did you consider before making the final call?
+	- How do you ensure that your decisions are aligned with organizational goals and values?
+4. Ledership:
+	-  Can you describe your leadership style and how it has helped you to achieve your goals?
+	-  How do you motivate and inspire team members to achieve their full potential?
+	-  How do you delegate tasks and responsibilities to team members to ensure effective collaboration and productivity?
+5. Commitment:
+	-  How do you demonstrate commitment to your work and to achieving your goals?
+	-  Can you describe a time when you went above and beyond to ensure the success of a project or initiative?
+	-  How do you maintain your level of commitment over the long term?
+6. Flexibility:
+	-  How do you adapt to changing priorities or circumstances in a fast-paced work environment?
+	-  Can you give an example of a time when you had to be flexible and adjust your plans to accommodate unexpected changes?
+	-  How do you ensure that your flexibility does not compromise your ability to meet your goals?
+
 
 ### Technical Skills
 1. **English**:
@@ -62,16 +79,6 @@ The HR role focuses on managing human resources within an organization, includin
    * How do you approach the recruitment and selection process, and what strategies do you use to attract and retain top talent?
    * Can you describe a time when you successfully identified and hired a strong candidate for a difficult-to-fill position?
    * How do you ensure that your recruitment and selection process is fair, unbiased, and compliant with employment laws and regulations?
-3. **Decision-making**:
-   * How do you approach decision-making, and what factors do you consider when making important decisions?
-   * Can you describe a time when you had to make a difficult decision, and what factors did you consider before making the final call?
-   * How do you ensure that your decisions are aligned with organizational goals and values?
-4. **Leadership**:
-   * Can you describe your leadership style and how it has helped you to achieve your goals?
-   * How do you motivate and inspire team members to achieve their full potential?
-   * How do you delegate tasks and responsibilities to team members to ensure effective collaboration and productivity?
-
-### Technical Skills
 3. **Reporting and analytics**:
    * How do you use reporting and analytics to track progress and measure the success of HR initiatives?
    * Can you give an example of a time when you used data to identify areas for improvement or to make a business case for a new HR initiative?
