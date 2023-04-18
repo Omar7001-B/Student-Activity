@@ -58,7 +58,6 @@ The HR role focuses on managing human resources within an organization, includin
 1. **English**:
    * How do you ensure that your written and spoken English is effective in a professional setting?
    * Can you give an example of a time when your English language skills helped you to achieve a better outcome?
-   * How do you stay up-to-date with changes in the English language and maintain your proficiency?
 2. **Recruitment and selection**:
    * How do you approach the recruitment and selection process, and what strategies do you use to attract and retain top talent?
    * Can you describe a time when you successfully identified and hired a strong candidate for a difficult-to-fill position?
@@ -80,7 +79,6 @@ The HR role focuses on managing human resources within an organization, includin
 4. **HR tools** (Google Forms, Sheets, PowerPoint):
    * How do you use HR tools to support HR processes and initiatives?
    * Can you give an example of a time when you used an HR tool to automate or streamline a manual process?
-   * How do you stay up-to-date with changes in HR technology and tools to ensure that you are using the most effective solutions?
 5. **Data entry**:
    * How do you ensure that your data entry is accurate and consistent?
    * Can you describe a time when you had to enter a large amount of data, and what strategies did you use to ensure accuracy and efficiency?
